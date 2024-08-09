@@ -1,8 +1,12 @@
-# React + Vite
+# y12-events
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Y12 Events
+Y12 (stylized as (Y)^12) is a For Kids, By Kids channel focusing on nurturing the whole child through family-friendly, educational content. Our goal is to let kids know that they can succeed, no matter where they are. 
 
-Currently, two official plugins are available:
+# Technology Stack
+* React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Deployed: 
+GitHub repo: https://github.com/aegerev/one-piece-activity-center/
+
+(c) 2024 Alexander Egerev. All Rights Reserved.
