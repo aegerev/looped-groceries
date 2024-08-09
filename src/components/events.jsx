@@ -8,65 +8,68 @@ export const events = [
 	},
 	{
 		"id": 2,
-		"title": "JavaScript Summit 2024",
-		"date": "April 10, 2024",
-		"location": "New York, NY",
-		"description": "A day-long conference dedicated to all things JavaScript, featuring talks from industry experts."
+		"title": "Reduxed Learning",
+		"date": "June 17, 2024",
+		"location": "Philadelphia, PA",
+		"description": "A day-long special assembly starring the cast of The Little Mermaid: New Adventures, as well as showings of 2 episodes of Smeshariki: Pin-Kod"
 	},
-	{
+
+    {
 		"id": 3,
-		"title": "Web Design Expo 2024",
-		"date": "May 15, 2024",
-		"location": "Chicago, IL",
-		"description": "Explore the latest trends in web design and development at this premier industry event."
+		"title": "Biden-Trump Debate: New Adventures Edition",
+		"date": "June 27, 2024",
+		"location": "Atlanta, GA",
+		"description": "Join Dana Bash, Jake Tapper, and the New Adventures Crew as they give an Inside Look at the first-ever Presidential debate between President Biden and former President Trump."
 	},
+
 	{
 		"id": 4,
-		"title": "Full Stack Developer Meetup 2024",
-		"date": "June 20, 2024",
-		"location": "Austin, TX",
-		"description": "Meet fellow developers, share knowledge, and learn about the latest technologies in full stack development."
+		"title": "4-In-1 Day",
+		"date": "July 4, 2024",
+		"location": "US (select states), Guanajuato MX",
+		"description": "Four episodes of The Little Mermaid: New Adventures combined into one movie, each with its own theme and topic."
 	},
+
 	{
 		"id": 5,
-		"title": "Mobile App Innovators Conference",
-		"date": "July 25, 2024",
-		"location": "Seattle, WA",
-		"description": "Discover the future of mobile app development and network with industry leaders."
+		"title": "New Crew Day",
+		"date": "July 11, 2024",
+		"location": "Media, PA",
+		"description": "Join Eric, Ariel, Sovereign Bill (voice of Molly in Molly of Denali - now voicing Melody in The Little Mermaid: New Adventures) as they react to President Biden dropping out and endorsing Kamala Harris."
 	},
 	{
 		"id": 6,
-		"title": "Cloud Computing Workshop",
-		"date": "August 30, 2024",
-		"location": "Boston, MA",
-		"description": "Hands-on workshop on cloud computing technologies and best practices."
+		"title": "Mister Rogers: Teacher, Neighbor, Friend",
+		"date": "August 6, 2024",
+		"location": "Philadelphia, PA",
+		"description": "To celebrate Tim Walz's introduction to being Harris' VP Pick, join Mister Rogers as he teaches kids how to embrace emotions."
 	},
 	{
 		"id": 7,
-		"title": "Cybersecurity Symposium",
-		"date": "September 15, 2024",
-		"location": "Washington D.C.",
-		"description": "A comprehensive symposium on current cybersecurity challenges and solutions."
+		"title": "Y12 Day of Education",
+		"date": "September 3, 2024",
+		"location": "Philadelphia, PA; Pittsburgh, PA, Princeton, NJ",
+		"description": "To celebrate Y12's official launch, schools in the aforementioned locations host a 'Day of Education'."
 	},
 	{
 		"id": 8,
-		"title": "AI & Machine Learning Conference",
-		"date": "October 10, 2024",
-		"location": "Silicon Valley, CA",
-		"description": "Exploring the latest advancements in AI and machine learning technologies."
+		"title": "New Adventures, More Votes",
+		"date": "November 5, 2024",
+		"location": "Media, PA",
+		"description": "Join the New Adventures crew as they air Election Day specials and encourage kids to vote. "
 	},
 	{
 		"id": 9,
-		"title": "Blockchain Technology Summit",
-		"date": "November 5, 2024",
-		"location": "Denver, CO",
-		"description": "Dive into the world of blockchain and discover its potential impacts across industries."
+		"title": "The Little Mermaid: New Adventures PRESENTS Road to 270",
+		"date": "November 6, 2024",
+		"location": "Media, PA",
+		"description": "Y12's broadcast will be aboard the Tortuga as the battle for the White House begins."
 	},
 	{
 		"id": 10,
-		"title": "Virtual Reality Developers Conference",
-		"date": "December 1, 2024",
-		"location": "Los Angeles, CA",
-		"description": "Join VR enthusiasts and developers for a day of discussion, demos, and networking."
+		"title": "Y12 Season of Giving 2024",
+		"date": "November 13, 2024",
+		"location": "Philadelphia, PA",
+		"description": "Join all your favrotie friends as they help kick off the Y12 Season of Giving 2024."
 	}
 ]

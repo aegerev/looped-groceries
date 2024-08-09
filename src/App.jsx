@@ -1,7 +1,7 @@
 import React from 'react';
-import { createRoot } from 'react-dom/client';
 import { events } from './components/events.jsx';
 import { EventCard } from './components/EventCard.jsx';
+import './App.css'
 
 
 const App = () => {
@@ -24,6 +24,6 @@ const App = () => {
 };
 
 
-const container = document.getElementById("root");
-const root = createRoot(container);
-root.render(<App />);
+
+
+export default App
